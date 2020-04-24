@@ -131,12 +131,12 @@ export default class Navbar extends Component {
               </li>
               <li className="nav-item">
                 <a className="nav-link " href="/main/ShowCompany">
-                Doctor List 
+                Supplier List 
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link " href="/main/ShowStudent">
-                Patient List 
+                NGO List 
                 </a>
               </li>
               

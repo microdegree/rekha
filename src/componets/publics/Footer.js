@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="container">
           <div className="row">
             <div className="col-lg-4 col-md-6 footer-info">
-              <h3>FarmEasy</h3>
+              <h3>Feed The Need</h3>
               <p>
                 We are trying to connect small and large farmers to sell their
                 quality product to the diffent places.
@@ -73,7 +73,7 @@ export default function Footer() {
         <div className="credits">
           Designed by{" "}
           <a href="https://bootstrapmade.com/">
-            Vidya<i className="fa fa-heart"></i>
+            /ABCD<i className="fa fa-heart"></i>
           </a>
         </div>
       </div>

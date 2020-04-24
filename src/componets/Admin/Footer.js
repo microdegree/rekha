@@ -65,12 +65,12 @@ export default function Footer() {
 
       <div className="container">
         <div className="copyright">
-          © Copyright <strong>FarmEasy</strong>. All Rights Reserved
+          © Copyright <strong>Feed The Need</strong>. All Rights Reserved
         </div>
         <div className="credits">
           Designed by{" "}
           <a href="https://bootstrapmade.com/">
-            Vidya<i className="fa fa-heart"></i>
+            /ABCD<i className="fa fa-heart"></i>
           </a>
         </div>
       </div>
