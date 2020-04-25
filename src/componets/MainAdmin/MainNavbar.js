@@ -131,15 +131,19 @@ export default class Navbar extends Component {
               </li>
               <li className="nav-item">
                 <a className="nav-link " href="/main/ShowCompany">
-                Supplier List 
+                +VE News
                 </a>
               </li>
               <li className="nav-item">
                 <a className="nav-link " href="/main/ShowStudent">
-                NGO List 
+                -VE News 
                 </a>
               </li>
-              
+              <li className="nav-item">
+                <a className="nav-link " href="/main/ShowStudent">
+                Neutral
+                </a>
+              </li>
             </ul>
           </div>
 

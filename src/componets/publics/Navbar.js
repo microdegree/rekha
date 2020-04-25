@@ -222,24 +222,15 @@ export default class Navbar extends Component {
               </li> */}
                         <li className="nav-item ">
                 <a className="nav-link" href="/">
-                  Gallery
+                  About Us
                 </a>
               </li> 
               <li className="nav-item ">
                 <a className="nav-link" href="/">
-                  Hunger Spots
+                 Contact Us
                 </a>
               </li> 
-              <li className="nav-item ">
-                <a className="nav-link" href="/">
-                  Volunteer
-                </a>
-              </li> 
-              <li className="nav-item ">
-                <a className="nav-link" href="/">
-                  Donate
-                </a>
-              </li> 
+            
              
            
     <li className="nav-item dropdown mr-5">
@@ -255,14 +246,13 @@ export default class Navbar extends Component {
                   Login
                 </a>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <a className="dropdown-item" href="/Login/user">
-                  Food Suppliers Login
-                  </a>
-                  <a className="dropdown-item" href="/Login/vendor">
-                    NGO Login
-                  </a>
                   <a className="dropdown-item" href="/Login/admin">
-                    Admin Login
+                  
+                  Admin Login
+                  </a>
+                 
+                  <a className="dropdown-item" href="/Login/user">
+                  User Login
                   </a>
                 </div>
               </li>

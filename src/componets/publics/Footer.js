@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="container">
           <div className="row">
             <div className="col-lg-4 col-md-6 footer-info">
-              <h3>Feed The Need</h3>
+              <h3>Positive News</h3>
               <p>
                 We are trying to connect small and large farmers to sell their
                 quality product to the diffent places.
@@ -68,7 +68,7 @@ export default function Footer() {
 
       <div className="container">
         <div className="copyright">
-          © Copyright <strong>FarmEasy</strong>. All Rights Reserved
+          © Copyright <strong>Positive News</strong>. All Rights Reserved
         </div>
         <div className="credits">
           Designed by{" "}

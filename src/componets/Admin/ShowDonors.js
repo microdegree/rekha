@@ -9,7 +9,7 @@ export default class ShowDonors extends Component {
         <div id="portfolio">
           <div class="container showtop  login-second ">
             <div class="page-title text-center">
-              <h1 class="text-dark">Food</h1>
+              <h1 class="text-dark">News</h1>
 
               <hr class="pg-titl-bdr-btm" />
             </div>
@@ -29,7 +29,7 @@ export default class ShowDonors extends Component {
                             href="/farmer/addItems"
                             class="btn btn-info btn-sm p-2"
                           >
-                            Add Food
+                            Add News
                           </a>
                         </div>
                       </div>
@@ -47,11 +47,11 @@ export default class ShowDonors extends Component {
                         </th>
                         <th>
                           {" "}
-                          <label class="text-dark">Food/Restaurant Name</label>
+                          <label class="text-dark">News</label>
                         </th>
                         <th>
                           {" "}
-                          <label class="text-dark">Location</label>
+                          <label class="text-dark">News Description</label>
                         </th>
                         <th>
                           {" "}
@@ -69,7 +69,7 @@ export default class ShowDonors extends Component {
                       <tr>
                         <td className="tbld">
                           <img
-                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZFj2XVHjFSxVZ1jZ4nNAtqwU8gfFxtOTXzfFY7t-0IFaZ35Lh&usqp=CAU"
+                            src="https://image.shutterstock.com/image-vector/breaking-news-background-world-global-260nw-719766118.jpg"
                             alt=""
                             width="150px"
                             height="100px"
@@ -95,34 +95,7 @@ export default class ShowDonors extends Component {
                       <tr>
                         <td className="tbld">
                           <img
-                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZFj2XVHjFSxVZ1jZ4nNAtqwU8gfFxtOTXzfFY7t-0IFaZ35Lh&usqp=CAU"
-                            alt=""
-                            width="150px"
-                            height="100px"
-                          ></img>
-                        </td>
-                        <td className="tbld text-dark">2</td>
-                        <td className="tbld text-dark">3</td>
-                        <td className="tbld text-dark">g</td>
-
-                        <td className="d-flex justify-content-center tbld">
-                          <div className="btn-group ">
-                            <a href="" class="btn btn-danger btn-md mr-5">
-                              <i class="fa fa-trash-o"></i>
-                            </a>
-
-                            <a href="" class="btn btn-info btn-md">
-                              <i class="fa fa-edit"></i>
-                            </a>
-                          </div>
-                        </td>
-                      </tr>
-
-
-                      <tr>
-                        <td className="tbld">
-                          <img
-                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZFj2XVHjFSxVZ1jZ4nNAtqwU8gfFxtOTXzfFY7t-0IFaZ35Lh&usqp=CAU"
+                            src="https://image.shutterstock.com/image-vector/breaking-news-background-world-global-260nw-719766118.jpg"
                             alt=""
                             width="150px"
                             height="100px"
@@ -149,7 +122,34 @@ export default class ShowDonors extends Component {
                       <tr>
                         <td className="tbld">
                           <img
-                            src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZFj2XVHjFSxVZ1jZ4nNAtqwU8gfFxtOTXzfFY7t-0IFaZ35Lh&usqp=CAU"
+                            src="https://image.shutterstock.com/image-vector/breaking-news-background-world-global-260nw-719766118.jpg"
+                            alt=""
+                            width="150px"
+                            height="100px"
+                          ></img>
+                        </td>
+                        <td className="tbld text-dark">2</td>
+                        <td className="tbld text-dark">3</td>
+                        <td className="tbld text-dark">g</td>
+
+                        <td className="d-flex justify-content-center tbld">
+                          <div className="btn-group ">
+                            <a href="" class="btn btn-danger btn-md mr-5">
+                              <i class="fa fa-trash-o"></i>
+                            </a>
+
+                            <a href="" class="btn btn-info btn-md">
+                              <i class="fa fa-edit"></i>
+                            </a>
+                          </div>
+                        </td>
+                      </tr>
+
+
+                      <tr>
+                        <td className="tbld">
+                          <img
+                            src="https://image.shutterstock.com/image-vector/breaking-news-background-world-global-260nw-719766118.jpg"
                             alt=""
                             width="150px"
                             height="100px"

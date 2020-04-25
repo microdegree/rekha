@@ -13,7 +13,7 @@ class Registration extends Component {
               <div className="d-flex justify-content-center">
                 <div className="card" id="login-card">
                   <div className="card-header">
-                    <h3 className="mt-5 sign">Food Suppliers Registration</h3>
+                    <h3 className="mt-5 sign">User Registration</h3>
                   </div>
                   <div className="card-body">
                     <form>
@@ -45,24 +45,10 @@ class Registration extends Component {
                         <input
                           type="text"
                           className="form-control"
-                          placeholder="Location"
+                          placeholder="Age"
                         />
                       </div>
-                      <div className="input-group form-group">
-                        <div className="input-group-prepend">
-                          <span
-                            className="input-group-text"
-                            style={{ background: "#ffc312" }}
-                          >
-                            <i className="fa fa-list-alt "></i>
-                          </span>
-                        </div>
-                        <input
-                          type="text"
-                          className="form-control"
-                          placeholder="Category"
-                        />
-                      </div>
+                 
                       <div className="input-group form-group">
                         <div className="input-group-prepend">
                           <span
